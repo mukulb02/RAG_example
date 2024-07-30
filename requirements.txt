@@ -5,3 +5,4 @@ chromadb
 langchain
 PyPDF2
 sentence-transformers
+pysqlite3-binary
